@@ -9,8 +9,6 @@
 - **Three Ratings:** Unhappy, Neutral, Satisfied.
 - **Hover Effects:** Each rating has a distinct hover effect.
 - **Active State:** Clicking a rating highlights it.
-- **Dynamic Feedback:** Clicking "Send Review" updates the feedback section.
-- **Responsive Design:** Works well on different devices.
 
 ## Installation
 

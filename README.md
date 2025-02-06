@@ -17,5 +17,20 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/feedback-ui.git
-   cd feedback-ui
+   git clone https://github.com/saaiilbasnet/FeedbackUi.git
+```
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/1c93d44b-a797-46b8-b9c7-48d4e224ed47)
+
+![image](https://github.com/user-attachments/assets/8d2072f3-32b4-4bb9-a2f9-f0f69cb5d892)
+
+## contributors
+1. Saaiil Basnet
+2. Prakrit Acharya
+
+## Feel free to contribute and contact me for any further communications.
+Dhanyabaad!
+
+

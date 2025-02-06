@@ -1,8 +1,6 @@
-# Feedback UI
+# Feedback Ui
 
-
-
-# A simple feedback user interface that lets users choose from three ratings (unhappy, neutral, and satisfied) with a hover effect. When a rating is selected, it becomes active (changes background color) and clicking "Send Review" updates the feedback section with the selected rating.
+ A simple feedback user interface that lets users choose from three ratings (unhappy, neutral, and satisfied) with a hover effect. When a rating is selected, it becomes active (changes background color) and clicking "Send Review" updates the feedback section with the selected rating.
 
 
 
